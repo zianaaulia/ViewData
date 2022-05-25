@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ViewData">
         <activity
+            android:name=".DetailBuahActivity"
+            android:exported="false" />
+        <activity
             android:name=".RecylerActivity"
             android:exported="false" />
         <activity
